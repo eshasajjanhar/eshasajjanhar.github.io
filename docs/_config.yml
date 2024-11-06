@@ -1,0 +1,8 @@
+title: "My Awesome Website"
+description: "A cool website using Jekyll on GitHub Pages"
+url: "https://eshasajjanhar.github.io"
+baseurl: "" # Leave empty for user sites; set "/project-name" for project sites.
+author:
+  name: "Your Name"
+  email: "your.email@example.com"
+theme: minima # Optional: GitHub Pages supports certain themes
