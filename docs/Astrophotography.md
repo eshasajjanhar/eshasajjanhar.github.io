@@ -3,4 +3,4 @@ title: Astrophotography
 permalink: /astrophotos
 ---
 test
-![](assets/M51.jpg)
+![image of M51](assets/M51.jpg)
