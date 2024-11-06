@@ -6,3 +6,12 @@ author:
   name: "Esha Sajjanhar"
   email: "esha.sajjanhar@gmail.com"
 theme: minima # Optional: GitHub Pages supports certain themes
+
+# Navigation menu
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Astrophotography"
+    url: "/astrophotos/"
