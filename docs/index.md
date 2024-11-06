@@ -1,4 +1,5 @@
 ---
+title: home
 ---
 # test heading
 
