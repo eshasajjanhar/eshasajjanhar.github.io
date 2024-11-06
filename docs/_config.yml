@@ -2,11 +2,6 @@ title: "Esha Sajjanhar"
 description: "4th year undergraduate student of Physics and Astronomy at Ashoka University"
 url: "https://eshasajjanhar.github.io"
 baseurl: "" # Leave empty for user sites; set "/project-name" for project sites.
-author:
-  name: "Esha Sajjanhar"
-  email: "esha.sajjanhar@gmail.com"
-theme: minima # Optional: GitHub Pages supports certain themes
-
 # Navigation menu
 nav_links:
   - title: "Home"
@@ -15,3 +10,9 @@ nav_links:
     url: "/research/"
   - title: "Astrophotography"
     url: "/astrophotos/"
+author:
+  name: "Esha Sajjanhar"
+  email: "esha.sajjanhar@gmail.com"
+theme: minima # Optional: GitHub Pages supports certain themes
+
+
