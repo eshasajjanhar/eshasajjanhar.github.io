@@ -5,11 +5,11 @@ baseurl: "" # Leave empty for user sites; set "/project-name" for project sites.
 # Navigation menu
 nav_links:
   - title: "Home"
-    url: "/"
+    url: ""
   - title: "Research"
-    url: "/research/"
+    url: "/research"
   - title: "Astrophotography"
-    url: "/astrophotos/"
+    url: "/astrophotos"
 author:
   name: "Esha Sajjanhar"
   email: "esha.sajjanhar@gmail.com"
