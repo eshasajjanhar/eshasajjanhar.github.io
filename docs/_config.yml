@@ -5,4 +5,4 @@ baseurl: "" # Leave empty for user sites; set "/project-name" for project sites.
 author:
   name: "Esha Sajjanhar"
   email: "esha.sajjanhar@gmail.com"
-#theme: minima # Optional: GitHub Pages supports certain themes
+theme: minima # Optional: GitHub Pages supports certain themes
