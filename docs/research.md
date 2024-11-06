@@ -1,8 +1,8 @@
 ---
+title: "Research"
 permalink: /research/
 ---
-# Research
-Some things I've worked on :)
+Details of projects I've worked on.
 
 ## Project 1
 
