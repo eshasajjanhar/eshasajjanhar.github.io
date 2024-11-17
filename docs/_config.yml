@@ -8,9 +8,6 @@ nav_links:
     url: "/research"
   - title: "Astrophotography"
     url: "/astrophotos"
-author:
-  name: "Esha Sajjanhar"
-  email: "esha.sajjanhar@gmail.com"
 theme: minima # Optional: GitHub Pages supports certain themes
 
 
