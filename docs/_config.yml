@@ -4,8 +4,6 @@ url: "https://eshasajjanhar.github.io"
 baseurl: "" # Leave empty for user sites; set "/project-name" for project sites.
 # Navigation menu
 nav_links:
-  - title: "Home"
-    url: ""
   - title: "Research"
     url: "/research"
   - title: "Astrophotography"
