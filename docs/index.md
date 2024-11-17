@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ""
 ---
 <style>
   h1 {
