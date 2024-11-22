@@ -1,0 +1,9 @@
+body {
+  max-width: 1200px; /* Set the maximum width of the body */
+  margin: 0 auto; /* Center the content */
+  padding: 20px; /* Add some padding */
+}
+
+h1 {
+  display: none;
+}
