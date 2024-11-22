@@ -2,16 +2,12 @@
 title: "Research"
 permalink: /research/
 ---
-Details of projects I've worked on.
+I'm interested in accretion onto supermassive black holes and the effects of accretion-related instabilities on AGN feedback. I am trained in multi-wavelength data reduction and analysis- specifically in X-ray, radio, and optical as well as basic knowledge of gwpy for graviational wave detector data. You can find details of past and ongoing projects below!
 
-## Project 1
+# Multi-Scale Radio Study of NGC 3516
+![image of precession model](docs/assets/images/research/AB942.png)
 
-(details) + images
+NGC 3516 is a low-redshift changing-look Seyfert galaxy with an S-shaped kpc-scale radio jet. This S-shaped morphology is also visible in its emission line gas, at a much smaller scale. I studied the morphology of the radio jet using archival data from the Very Large Array (VLA). I found that the S-shape of the jet could be explained using precession of the jet ejection axis. You can find the project report [here](docs/assets/research/VSRP_Report_Esha_Sajjanhar.pdf).
 
-## Project 2
+_Mentor: Dr. Preeti Kharb (NCRA-TIFR)_
 
-(details)
-
-## Project 3
-
-(details)
