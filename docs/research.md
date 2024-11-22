@@ -10,7 +10,7 @@ I'm interested in accretion onto supermassive black holes and the effects of acc
   <figcaption>Best fit precession model overlaid on a VLA image of NGC 3516.</figcaption>
 </div>
 
-NGC 3516 is a low-redshift changing-look Seyfert galaxy with an S-shaped kpc-scale radio jet. This S-shaped morphology is also visible in its emission line gas, at a much smaller scale. I studied the morphology of the radio jet using archival data from the Very Large Array (VLA). I found that the S-shape of the jet could be explained using precession of the jet ejection axis. You can find the project report [here](/assets/research/VSRP_Report_Esha_Sajjanhar.pdf).
+NGC 3516 is a low-redshift changing-look Seyfert galaxy with an S-shaped kpc-scale radio jet. This S-shaped morphology is also visible in its emission line gas, at a much smaller scale. I studied the morphology of the radio jet using archival data from the Very Large Array (VLA). I found that the S-shape of the jet could be explained using precession of the jet ejection axis. You can find the project report [here](/assets/research/VSRP_Report_Esha_Sajjanhar.pdf) target="_blank".
 
 _Mentor: Dr. Preeti Kharb (NCRA-TIFR)_
 
