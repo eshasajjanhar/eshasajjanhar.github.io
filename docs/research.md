@@ -6,7 +6,7 @@ I'm interested in accretion onto supermassive black holes and the effects of acc
 
 # Multi-Scale Radio Study of NGC 3516
 <div style="text-align: center;">
-  <img src="/docs/assets/research/AB942.png" alt="image of precession model" width="300">
+  <img src="/assets/research/AB942.png" alt="image of precession model" width="300">
   <figcaption>Best fit precession model overlaid on a VLA image of NGC 3516.</figcaption>
 </div>
 
