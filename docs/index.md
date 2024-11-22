@@ -1,11 +1,7 @@
 ---
 title: ""
 ---
-<style>
-  h1 {
-    display: none;
-  }
-</style>
+<link rel="stylesheet" href="/docs/styles.css">
 ![image of M51](/assets/images/M51.jpg)
 
 Hello! I'm a student of Physics and Astronomy with an interest in observational Astrophysics. I'm currently pursuing a post-graduate diploma in advanced studies and research (dipASR) in Physics at Ashoka University in Sonipat, India. Despite the confusing name, it's functionally the final year of a 4-year undergraduate degree (see more [here](https://www.ashoka.edu.in/the-ashoka-scholars-programme/)).
