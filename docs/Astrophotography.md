@@ -19,7 +19,7 @@ Used f/6.3 focal reducer.
 </p>
 Total exposure : ? minutes per filter
 
-<img src="./assets/images/galaxy.jpg" class="custom-image" alt="A galaxy image">
+<img src="./assets/images/M51.jpg" class="custom-image" alt="A galaxy image">
 
 ## Pleiades (M45)
 <p align="middle">
