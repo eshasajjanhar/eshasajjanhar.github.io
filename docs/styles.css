@@ -1,7 +1,7 @@
-body {
-  max-width: 10000px; /* Set the maximum width of the body */
-  margin: 0 auto; /* Center the content */
-  padding: 20px; /* Add some padding */
+html body {
+  max-width: 10000px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 h1 {
