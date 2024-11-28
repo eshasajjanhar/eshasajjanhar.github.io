@@ -6,10 +6,13 @@ I'm interested in accretion onto supermassive black holes and the effects of acc
 
 # QPOs in GX 339-4 using AstroSat Data
 <img src="./assets/research/final-lorentz-fit-model.png" class="custom-image" alt="image of precession model">
-
 <p align="middle">
   A sample 4 Lorentzian fit to a QPO using <tt>xspec</tt>. 
 </p>
+
+<img src="./assets/images/M51.jpg" class="custom-image" alt="Image of Messier 51">
+Total exposure : 37.5 minutes per filter
+Used f/6.3 focal reducer.
 
 For my undergraduate thesis, I am studying quasi-periodic oscillations in GX 339-4 which is a binary system with an evolved star accreting matter onto a stellar mass black hole (known as a low mass X-ray binary or LMXB). This involves creating a power spectrum from the X-ray lightcurve of the source and identifying broad peaks which represent oscillations with time-varying frequency or amplitude. Such oscillations are called 'quasi-periodic' (truly periodic oscillations would give a sharp peak in the power spectrum). QPOs in the power spectrum can be modelled using lorentzians (as shown in the figure above). Properties of QPOs, such as the fractional rms amplitude, change as a function of energy. Evaluating these changes allow us to 
 
