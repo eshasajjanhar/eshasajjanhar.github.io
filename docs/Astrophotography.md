@@ -8,9 +8,9 @@ These photos were taken using an STC-7 camera, a computerised equatorial mount a
 For each image, we took multiple frames (30s exposure each) in 4 filters- luminance, red, green, blue (LRGB). We also obtained calibration frames (flats, darks, biases) and used these to reduce each frame before stacking them to produce the final result. The total exposure per filter has been listed below each image. All of the reduction and stacking tasks were performed on Siril.
 </p>
 
-## The Whirlpool Galaxy (M31)
+## The Whirlpool Galaxy (M51)
 <p align="middle">
-<img src='/assets/images/M51.jpg' width=70%>
+<img src='./assets/images/M51.jpg' width=70%>
 </p>
 Total exposure : 37.5 minutes per filter
 
@@ -18,13 +18,13 @@ Used f/6.3 focal reducer.
 
 ## The Eagle Nebula (M16)
 <p align="middle">
-<img src='/assets/images/eagle.jpg' width=70%>
+<img src='./assets/images/eagle.jpg' width=70%>
 </p>
 Total exposure : ? minutes per filter
 
 ## Pleiades (M45)
 <p align="middle">
-<img src='assets/images/pleiades.jpg' width=70%>
+<img src='./assets/images/pleiades.jpg' width=70%>
 </p>
 Total exposure : ? minutes per filter
 focal reduccer?
