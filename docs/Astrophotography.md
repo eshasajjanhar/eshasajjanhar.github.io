@@ -10,7 +10,7 @@ For each image, we took multiple frames (30s exposure each) in 4 filters- lumina
 
 ## The Whirlpool Galaxy (M31)
 <p align="middle">
-<img src='assets/images/M51.jpg' width=70%>
+<img src='/assets/images/M51.jpg' width=70%>
 </p>
 Total exposure : 37.5 minutes per filter
 
@@ -18,7 +18,7 @@ Used f/6.3 focal reducer.
 
 ## The Eagle Nebula (M16)
 <p align="middle">
-<img src='assets/images/eagle.jpg' width=70%>
+<img src='/assets/images/eagle.jpg' width=70%>
 </p>
 Total exposure : ? minutes per filter
 
