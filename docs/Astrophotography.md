@@ -9,39 +9,29 @@ For each image, we took multiple frames (30s exposure each) in 4 filters- lumina
 </p>
 
 ## The Whirlpool Galaxy (M51)
-![The Whirlpool Galaxy](./assets/images/M51.jpg)
+<img src="./assets/images/M51.jpg" class="custom-image" alt="Image of Messier 51">
 Total exposure : 37.5 minutes per filter
 Used f/6.3 focal reducer.
 
 ## The Eagle Nebula (M16)
-<p align="middle">
-<img src='/docs/assets/images/eagle.jpg' width=70%>
-</p>
+<img src="./assets/images/eagle.jpg" class="custom-image" alt="Image of Eagle Nebula">
 Total exposure : ? minutes per filter
 
-<img src="./assets/images/M51.jpg" class="custom-image" alt="A galaxy image">
-
 ## Pleiades (M45)
-<p align="middle">
-<img src='./assets/images/pleiades.jpg' width=70%>
-</p>
+<img src="./assets/images/pleiades.jpg" class="custom-image" alt="Image of Messier 45">
 Total exposure : ? minutes per filter
 focal reduccer?
 <p align="justify">
 This is one of my favourite photos because it reveals something about how our camera works. In an attempt to capture the surrounding gas, we overexposed the stars here. With a CCD (charged coupled device) camera, an overexposed star can lead to an entire row of saturated pixels leading to a streak through the image. However, the overexposed stars here show a grid-like pattern. This is because our camera is a CMOS (complementary metal-oxide-semiconductor) device and not a CCD. CMOS cameras have amplifiers associated with every pixel which makes them faster at the cost of active detection area. To compensate for the lost active area, such sensors generally contain a microlens array which focuses all incoming light onto the available active area. What we see with the oversaturated stars here is the diffraction pattern of the microlens array. Isn't that neat?
 </p>
 ## The Flame Nebula (NGC 2024)
-<p align="middle">
-<img src='assets/images/flame_nebula.jpg' width=70%>
-</p>
+<img src="./assets/images/flame_nebula.jpg" class="custom-image" alt="Image of Messier 51">
 Total exposure : ? minutes per filter
 
 (There's the microlens diffraction pattern again!)
 
 ## The Orion Nebula (M42)
-<p align="middle">
-<img src='assets/images/orion_nebula.jpg' width=70%>
-</p>
+<img src="./assets/images/orion_nebula.jpg" class="custom-image" alt="Image of Messier 51">
 Total exposure : ? minutes per filter
 
 Used f/6.3 focal reducer.
@@ -49,9 +39,7 @@ Used f/6.3 focal reducer.
 INSERT A SECOND ORION
 
 ## Moon
-<p align="middle">
-<img src='assets/images/moon.jpg' width=70%>
-</p>
+<img src="./assets/images/moon.jpg" class="custom-image" alt="Image of Messier 51">
 Total exposure : ? minutes per filter ADD MOON W/O FOCAL REDUCER
 
 Used f/6.3 focal reducer.
