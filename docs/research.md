@@ -5,9 +5,8 @@ permalink: /research/
 I'm interested in accretion onto supermassive black holes and the effects of accretion-related instabilities on AGN feedback. I am particularly interested in exploring these systems using multi-messenger observations. I am trained in data reduction and analysis- specifically in X-ray, radio, and optical as well as basic knowledge of gwpy for graviational wave detector data. You can find details of past and ongoing projects below!
 
 # QPOs in GX 339-4 using AstroSat Data
-<p align="middle">
 <img src="./assets/research/final-lorentz-fit-model.png" class="custom-image" alt="image of precession model">
-</p>
+
 <p align="middle">
   A sample 4 Lorentzian fit to a QPO using <tt>xspec</tt>. 
 </p>
@@ -17,9 +16,8 @@ For my undergraduate thesis, I am studying quasi-periodic oscillations in GX 339
 _Advisor: Prof. Dipankar Bhattacharya_
 
 # Multi-Scale Radio Study of NGC 3516
-<p align="middle">
 <img src="./assets/research/NGC3516_precession_AB942_J2000.png" class="custom-image" alt="image of precession model">
-</p>
+
 <p align="middle">
   Best fit precession model overlaid on a VLA image of NGC 3516.
 </p>
@@ -34,9 +32,8 @@ I also studied the variability of the radio core of the galaxy. While this has b
 _Advisor: Dr. Preeti Kharb (NCRA-TIFR)_
 
 # Detecting the HI Line with a Horn Antenna
-<p align="middle">
 <img src="./assets/research/Hobie.png" class="custom-image" alt="image of precession model">
-</p>
+
 
 <p align="middle">
   The horn antenna at Ashoka University.
