@@ -7,3 +7,9 @@ body {
 h1 {
   display: none;
 }
+.custom-image {
+    width: 70%;
+    display: block;
+    margin: 0 auto; /* Center the image */
+    border: 1px solid #ccc;
+}
