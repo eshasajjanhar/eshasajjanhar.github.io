@@ -13,13 +13,13 @@ For each image, we took multiple frames (30s exposure each) in 4 filters- lumina
 Total exposure : 37.5 minutes per filter
 Used f/6.3 focal reducer.
 
-
-
 ## The Eagle Nebula (M16)
 <p align="middle">
 <img src='/docs/assets/images/eagle.jpg' width=70%>
 </p>
 Total exposure : ? minutes per filter
+
+<img src="./assets/images/galaxy.jpg" class="custom-image" alt="A galaxy image">
 
 ## Pleiades (M45)
 <p align="middle">
