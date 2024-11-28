@@ -7,7 +7,7 @@ I'm interested in accretion onto supermassive black holes and the effects of acc
 
 # QPOs in GX 339-4 using AstroSat Data
 <img src="./assets/research/final-lorentz-fit-model.png" class="custom-image" alt="image of precession model">
-
+![image of M51](/assets/images/M51.jpg)
 <p align="middle">
   A sample 4 Lorentzian fit to a QPO using <tt>xspec</tt>. 
 </p>
