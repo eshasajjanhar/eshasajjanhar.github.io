@@ -18,9 +18,8 @@ _Advisor: Prof. Dipankar Bhattacharya_
 
 # Multi-Scale Radio Study of NGC 3516
 <p align="middle">
-<img src="./assets/research/AB942.png" class="custom-image" alt="image of precession model">
+<img src="./assets/research/NGC3516_precession_AB942_J2000.png" class="custom-image" alt="image of precession model">
 </p>
-
 <p align="middle">
   Best fit precession model overlaid on a VLA image of NGC 3516.
 </p>
