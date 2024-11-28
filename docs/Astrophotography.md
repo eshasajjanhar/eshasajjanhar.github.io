@@ -10,15 +10,17 @@ For each image, we took multiple frames (30s exposure each) in 4 filters- lumina
 
 ## The Whirlpool Galaxy (M51)
 <p align="middle">
-<img src='/docs/assets/images/M51.jpg' width=70%>
+<img src='eshasajjanhar.github.io/docs/assets/images/M51.jpg' width=70%>
 </p>
 Total exposure : 37.5 minutes per filter
-
 Used f/6.3 focal reducer.
 
 ![The Whirlpool Galaxy](./assets/images/M51.jpg)
 
 ## The Eagle Nebula (M16)
+<p align="middle">
+<img src='[eshasajjanhar.github.io/docs/assets/images/M51.jpg](https://github.com/eshasajjanhar/eshasajjanhar.github.io/blob/2fff0517584a1337f18b1b3c96c588bb9b98ef08/docs/assets/images/M51.jpg)' width=70%>
+</p>
 <p align="middle">
 <img src='/docs/assets/images/eagle.jpg' width=70%>
 </p>
