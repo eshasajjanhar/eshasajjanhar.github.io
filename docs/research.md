@@ -2,7 +2,8 @@
 title: "Research"
 permalink: /research/
 ---
-I'm interested in accretion onto supermassive black holes and the effects of accretion-related instabilities on AGN feedback. I am particularly interested in exploring these systems using multi-messenger observations. I am trained in data reduction and analysis- specifically in X-ray, radio, and optical as well as basic knowledge of gwpy for graviational wave detector data. You can find details of past and ongoing projects below!
+
+# Research Projects
 
 # QPOs in GX 339-4 using AstroSat Data
 <p align="middle">
@@ -42,6 +43,25 @@ _Advisor: Dr. Preeti Kharb (NCRA-TIFR)_
 </p>
 
 [Poster](/assets/research/HI_ASRF_Poster.pdf)
+
+This antenna was built by Pradip Chaudhari in the Physics lab at Ashoka. I worked on testing this horn and using it to identify the 21 cm emission line due to galactic Hydrogen. <> we could detect the 21 cm line. We then performed temperature calibration and local standard of rest (LSR) correction in order to obtain temperature-velocity plots. We compared our results in these terms with data from the Leiden-Argentine-Bonn (LAB) survey and found that our results were in good agreement!
+
+This has since become an experiment for the introductory undergraduate astronomy lab ([AST1080: Observing the cosmos](https://www.ashoka.edu.in/courses/observing-the-cosmos/)).
+
+_Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
+
+# Coursework
+
+# Studying the Kosterlitz-Thouless Phase Transition
+<p align="middle">
+<img src="/assets/research/xy_model_temps.png" alt="image of QPO fit" width="70%">
+</p>
+
+<p align="middle">
+  The 2D XY model at different temperatures showing higher energy for more disordered configurations.
+</p>
+
+[Project Poster](/assets/research/BKT_Project_Poster.pdf)
 
 This antenna was built by Pradip Chaudhari in the Physics lab at Ashoka. I worked on testing this horn and using it to identify the 21 cm emission line due to galactic Hydrogen. <> we could detect the 21 cm line. We then performed temperature calibration and local standard of rest (LSR) correction in order to obtain temperature-velocity plots. We compared our results in these terms with data from the Leiden-Argentine-Bonn (LAB) survey and found that our results were in good agreement!
 
