@@ -11,7 +11,8 @@ I'm interested in accretion onto supermassive black holes and the effects of acc
 <p align="middle">
   A sample 4 Lorentzian fit to a QPO using <tt>xspec</tt>. 
 </p>
-For my undergraduate thesis, I am studying quasi-periodic oscillations in GX 339-4 which is a binary system with an evolved star accreting matter onto a stellar mass black hole (known as a low mass X-ray binary or LMXB). This involves creating a power spectrum from the X-ray lightcurve of the source and identifying broad peaks which represent oscillations with time-varying frequency or amplitude. Such oscillations are called 'quasi-periodic' (truly periodic oscillations would give a sharp peak in the power spectrum). QPOs in the power spectrum can be modelled using lorentzians (as shown in the figure above). Properties of QPOs, such as the fractional rms amplitude, change as a function of energy. Evaluating these changes allow us to 
+For my undergraduate thesis, I am studying quasi-periodic oscillations in GX 339-4 which is a binary system with an evolved star accreting matter onto a stellar mass black hole (known as a low mass X-ray binary or LMXB). This involves creating a power spectrum from the X-ray lightcurve of the source and identifying broad peaks which represent oscillations with time-varying frequency or amplitude. Such oscillations are called 'quasi-periodic' (truly periodic oscillations would give a sharp peak in the power spectrum). QPOs in the power spectrum can be modelled using lorentzians (as shown in the figure above). Properties of QPOs, such as the fractional rms amplitude, change as a function of energy, likely due to a comptonising medium ('corona') surrounding the black hole. The final aim of my thesis is to characterise the geometry of the corona for GX 339-4.
+
 _Advisor: Prof. Dipankar Bhattacharya_
 
 # Multi-Scale Radio Study of NGC 3516
@@ -40,8 +41,10 @@ _Advisor: Dr. Preeti Kharb (NCRA-TIFR)_
   The horn antenna at Ashoka University.
 </p>
 
-[Poster](/assets/research/)
+[Poster](/assets/research/HI_ASRF_Poster.pdf)
 
-This antenna was built by Pradip Chaudhari in Physics lab at Ashoka. I worked on testing this horn and using it to identify the 21 cm emission line due to galactic Hydrogen. This involved 
+This antenna was built by Pradip Chaudhari in the Physics lab at Ashoka. I worked on testing this horn and using it to identify the 21 cm emission line due to galactic Hydrogen. <> we could detect the 21 cm line. We then performed temperature calibration and local standard of rest (LSR) correction in order to obtain temperature-velocity plots. We compared our results in these terms with data from the Leiden-Argentine-Bonn (LAB) survey and found that our results were in good agreement!
+
+This has since become an experiment for the introductory undergraduate astronomy lab ([AST1080: Observing the cosmos](https://www.ashoka.edu.in/courses/observing-the-cosmos/)).
 
 _Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
