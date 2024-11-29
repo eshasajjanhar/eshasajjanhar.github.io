@@ -32,7 +32,9 @@ I also studied the variability of the radio core of the galaxy. While this has b
 _Advisor: Dr. Preeti Kharb (NCRA-TIFR)_
 
 # Detecting the HI Line with a Horn Antenna
+<p align="middle">
 <img src="/assets/research/Hobie.png" alt="image of QPO fit" width="70%">
+</p>
 
 <p align="middle">
   The horn antenna at Ashoka University.
