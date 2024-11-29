@@ -5,7 +5,8 @@ permalink: /research/
 I'm interested in accretion onto supermassive black holes and the effects of accretion-related instabilities on AGN feedback. I am particularly interested in exploring these systems using multi-messenger observations. I am trained in data reduction and analysis- specifically in X-ray, radio, and optical as well as basic knowledge of gwpy for graviational wave detector data. You can find details of past and ongoing projects below!
 
 # QPOs in GX 339-4 using AstroSat Data
-<img src="/docs/assets/research/final-lorentz-fit-model.png" class="custom-image" alt="image of precession model">
+<img src="./assets/research/final-lorentz-fit-model.png" class="custom-image" alt="image of precession model">
+
 <p align="middle">
   A sample 4 Lorentzian fit to a QPO using <tt>xspec</tt>. 
 </p>
