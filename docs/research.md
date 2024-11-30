@@ -1,9 +1,7 @@
 ---
-layout: no-title
+title: "Research"
 permalink: /research/
 ---
-
-<h1>Research Projects</h1> 
 
 <h2>QPOs in GX 339-4 using AstroSat Data</h2> 
 <p align="middle">
@@ -50,7 +48,7 @@ This has since become an experiment for the introductory undergraduate astronomy
 
 _Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
 
-<h1>Coursework</h1>
+<h1>Coursework Projects</h1>
 
 <h2>Studying the Kosterlitz-Thouless Phase Transition</h2>
 <p align="middle">
