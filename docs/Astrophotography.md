@@ -6,6 +6,7 @@ permalink: /astrophotos
 These photos were taken using an STC-7 camera, a computerised equatorial mount an an 8-inch Schmidt-Cassegrain telescope at the Ashoka University campus. Huge thanks to Philip Cherian and Pradip Chaudhari for making the setup accessible and efficient!
 </p>
 
+
 <p align="justify">
 For each image, we took multiple frames (30s exposure each) in 4 filters- luminance, red, green, blue (LRGB). We also obtained calibration frames (flats, darks, biases) and used these to reduce each frame before stacking them to produce the final result. All of the reduction and stacking tasks were performed on Siril.
 </p>
