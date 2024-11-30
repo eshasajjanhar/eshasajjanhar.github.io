@@ -3,7 +3,7 @@ title: Astrophotography
 permalink: /astrophotos
 ---
 <p align="justify">
-These photos were taken using an STC-7 camera, a computerised equatorial mount an an 8-inch Schmidt-Cassegrain telescope at the Ashoka University campus. Huge thanks to Philip Cherian and Pradip Chaudhari for making the setup accessible and efficient!
+These photos were taken using an STC-7 camera, a computerised equatorial mount an an 8-inch Schmidt-Cassegrain telescope at the Ashoka University campus. Huge thanks to Philip Cherian and Pradip Chaudhari for making these possible!
 </p>
 
 
