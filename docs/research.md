@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 ---
 
-# Research Projects
+<h1>Research Projects</h1> 
 
-# QPOs in GX 339-4 using AstroSat Data
+<h2>QPOs in GX 339-4 using AstroSat Data</h2> 
 <p align="middle">
 <img src="/assets/research/final-lorentz-fit-model.png" alt="image of QPO fit" width="70%">
 </p>
@@ -16,7 +16,7 @@ For my undergraduate thesis, I am studying quasi-periodic oscillations in GX 339
 
 _Advisor: Prof. Dipankar Bhattacharya_
 
-# Multi-Scale Radio Study of NGC 3516
+<h2>Multi-Scale Radio Study of NGC 3516</h2>
 <p align="middle">
 <img src="/assets/research/NGC3516_precession_AB942_J2000.png" alt="image of QPO fit" width="70%">
 </p>
@@ -33,7 +33,7 @@ I also studied the variability of the radio core of the galaxy. While this has b
 
 _Advisor: Dr. Preeti Kharb (NCRA-TIFR)_
 
-# Detecting the HI Line with a Horn Antenna
+<h2> Detecting the HI Line with a Horn Antenna</h2>
 <p align="middle">
 <img src="/assets/research/Hobie.png" alt="image of QPO fit" width="70%">
 </p>
@@ -50,9 +50,9 @@ This has since become an experiment for the introductory undergraduate astronomy
 
 _Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
 
-# Coursework
+<h1>Coursework</h1>
 
-# Studying the Kosterlitz-Thouless Phase Transition
+<h2>Studying the Kosterlitz-Thouless Phase Transition</h2>
 <p align="middle">
 <img src="/assets/research/xy_model_temps.png" alt="image of QPO fit" width="70%">
 </p>
@@ -61,10 +61,25 @@ _Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
   The 2D XY model at different temperatures showing higher energy for more disordered configurations.
 </p>
 
-[Project Poster](/assets/research/BKT_Project_Poster.pdf)
+[Project Report](/assets/research/KT_Phase_Transition_Report.pdf), [Code](/assets/research/KT_Phase_Transition_Code.ipynb), [Poster](/assets/research/BKT_Project_Poster.pdf)
 
-This antenna was built by Pradip Chaudhari in the Physics lab at Ashoka. I worked on testing this horn and using it to identify the 21 cm emission line due to galactic Hydrogen. <> we could detect the 21 cm line. We then performed temperature calibration and local standard of rest (LSR) correction in order to obtain temperature-velocity plots. We compared our results in these terms with data from the Leiden-Argentine-Bonn (LAB) survey and found that our results were in good agreement!
+The 2D XY model is a lattice model of spins which can make any arbitrary angle with the X-axis. Here, this system has been modelled using the Metropolis algorithm in order to study the Kosterlitz-Thouless phase transition The KT transition is a topological phase transition between ordered and disordered states of the system. We have studied the statistical and thermodynamic properties of the system and identified the divergence of some of these properties at the critical temperature.
 
-This has since become an experiment for the introductory undergraduate astronomy lab ([AST1080: Observing the cosmos](https://www.ashoka.edu.in/courses/observing-the-cosmos/)).
+_Final Project for PHY-3610 Statistical Mechanics_
 
-_Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
+_Course Instructor: Prof. Bikram Phookun_
+
+
+<h2>Cosmic Messengers II (Lab)</h2>
+
+In this course, we learned the techniques for using astronomical data across a range of wavelengths. The following are my lab reports for this course.
+
+[_Report 1_ Optical Photometry](/assets/research/EshaSajjanhar_AST3880_OpticalPhotometry.pdf)
+
+[_Report 2_ Optical Spectroscopy](/assets/research/EshaSajjanhar_AST3880_OpticalSpectroscopy.pdf)
+
+[_Report 3_ X-Ray Timing](/assets/research/EshaSajjanhar_PHY3880_XrayTiming.pdf)
+
+[_Report 4_ X-Ray Timing](/assets/research/EshaSajjanhar-PHY3880-XraySpectroscopy.pdf)
+
+_Course Instructor: Prof. Dipankar Bhattacharya_
