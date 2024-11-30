@@ -48,7 +48,7 @@ This has since become an experiment for the introductory undergraduate astronomy
 
 _Mentors: Prof. Dipankar Bhattacharya, Philip Cherian_
 
-<h1>Coursework Projects</h1>
+# Coursework Projects
 
 <h2>Studying the Kosterlitz-Thouless Phase Transition</h2>
 <p align="middle">
