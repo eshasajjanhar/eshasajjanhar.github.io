@@ -8,6 +8,8 @@ nav_links:
     url: "/research"
   - title: "Astrophotography"
     url: "/astrophotos"
+  - title: "CV"
+    url: "/assets/EshaSajjanhar-CV-Nov24.pdf"
 theme: minima # Optional: GitHub Pages supports certain themes
 
 
