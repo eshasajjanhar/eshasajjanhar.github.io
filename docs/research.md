@@ -1,4 +1,5 @@
 ---
+layout: no-title
 title: "Research"
 permalink: /research/
 ---
