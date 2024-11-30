@@ -74,7 +74,7 @@ In this course, we learned the techniques for using astronomical data across a r
 
 [_Report 1_ Optical Photometry](/assets/research/EshaSajjanhar_AST3880_OpticalPhotometry.pdf)
 
-[_Report 2_ Optical Spectroscopy](/assets/research/EshaSajjanhar_AST3880_OpticalSpectroscopy.pdf)
+[_Report 2_ Optical Spectroscopy](/assets/research/EshaSajjanhar_PHY3880_OpticalSpectroscopy.pdf)
 
 [_Report 3_ X-Ray Timing](/assets/research/EshaSajjanhar_PHY3880_XrayTiming.pdf)
 
