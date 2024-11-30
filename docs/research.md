@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-<h2>QPOs in GX 339-4 using AstroSat Data</h2> 
+<h2>QPOs in GX 339-4 using AstroSat Data</h2>
 <p align="middle">
 <img src="/assets/research/final-lorentz-fit-model.png" alt="image of QPO fit" width="70%">
 </p>
