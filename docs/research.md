@@ -80,8 +80,8 @@ In this course, we learned the techniques for using astronomical data across a r
 
 [_Report 4_ X-Ray Timing](/assets/research/EshaSajjanhar-PHY3880-XraySpectroscopy.pdf)
 
-[_Report 5_ Radio Imaging and Spectroscopy](/assets/research/EshaSajjanhar-PHY3880-Radio.pdf)
+[_Report 5_ Radio Imaging and Spectroscopy](/assets/research/EshaSajjanhar_PHY3880_Radio.pdf)
 
-[_Report 6_ Gravitational Waves](/assets/research/EshaSajjanhar-PHY3880-GravitationalWaves.pdf)
+[_Report 6_ Gravitational Waves](/assets/research/EshaSajjanhar_PHY3880_GravitationalWaves.pdf)
 
 _Course Instructor: Prof. Dipankar Bhattacharya_
