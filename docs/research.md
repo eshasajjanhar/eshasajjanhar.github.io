@@ -72,12 +72,16 @@ _Course Instructor: Prof. Bikram Phookun_
 
 In this course, we learned the techniques for using astronomical data across a range of wavelengths. The following are my lab reports for this course.
 
-[_Report 1_ Optical Photometry](/assets/research/EshaSajjanhar_AST3880_OpticalPhotometry.pdf)
+[_Report 1_ Optical Photometry](/assets/research/EshaSajjanhar_PHY3880_OpticalPhotometry.pdf)
 
 [_Report 2_ Optical Spectroscopy](/assets/research/EshaSajjanhar_PHY3880_OpticalSpectroscopy.pdf)
 
 [_Report 3_ X-Ray Timing](/assets/research/EshaSajjanhar_PHY3880_XrayTiming.pdf)
 
 [_Report 4_ X-Ray Timing](/assets/research/EshaSajjanhar-PHY3880-XraySpectroscopy.pdf)
+
+[_Report 5_ Radio Imaging and Spectroscopy](/assets/research/EshaSajjanhar-PHY3880-Radio.pdf)
+
+[_Report 6_ Gravitational Waves](/assets/research/EshaSajjanhar-PHY3880-GravitationalWaves.pdf)
 
 _Course Instructor: Prof. Dipankar Bhattacharya_
