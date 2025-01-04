@@ -34,6 +34,8 @@ This is one of my favourite photos because it reveals something about how our ca
 
 ## The Orion Nebula (M42)
 <img src="./assets/images/orion_nebula.jpg" class="custom-image" alt="Image of Orion Nebula">
+
+
 <img src="./assets/images/orion_2.jpg" class="custom-image" alt="Image of Orion Nebula">
 
 ## Moon
